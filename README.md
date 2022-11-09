@@ -1,8 +1,8 @@
 <h1 align="center">My Card</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoOliveiraCordeiro/flutter_my_card?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoOliveiraCordeiro/flutter_my_card?style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoCordeiro52/flutter_my_card?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoCordeiro52/flutter_my_card?style=for-the-badge">
   <a href="https://github.com/ThiagoOliveiraCordeiro">
     <img alt="Feito pelo Thiago Oliveira" src="https://img.shields.io/badge/feito%20por-Thiago Oliveira-%237519C1?style=for-the-badge">
   </a>
@@ -54,7 +54,7 @@ The following tools were used in the construction of the project:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ThiagoOliveiraCordeiro/flutter_my_card.git
+$ git clone https://github.com/ThiagoCordeiro52/flutter_my_card.git
 # Access the project folder in terminal/cmd
 $ cd flutter_my_card
 # # Install the project dependencies
